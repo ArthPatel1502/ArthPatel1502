@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arth Parikshit Patel</h1>
+<h1 align="center">Hi Hello👋, I'm Arth Parikshit Patel</h1>
 <h3 align="center">A passionate Graphic Designer and a full stack developer from India</h3>
 
 - 🔭 I’m currently working on [Sales Analysis through Python for Data Science and MySQL](https://lnkd.in/dGbBfH_W)
