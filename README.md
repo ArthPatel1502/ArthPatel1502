@@ -14,7 +14,7 @@ A passionate Graphic Designer and a full stack developer from India
 
 - 📄 Know about my experiences [www.linkedin.com/in/arthpatel15](www.linkedin.com/in/arthpatel15)
 
-- ⚡ Fun fact **I think I am funny***
+- ⚡ Fun fact ***I think I am funny***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
