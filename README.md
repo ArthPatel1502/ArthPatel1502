@@ -8,7 +8,7 @@ A passionate Graphic Designer and a full stack developer from India
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArthPatel1502](https://github.com/ArthPatel1502)
 
-- 💬 Ask me about **Python,C,C++**
+- 💬 Ask me about **Python,C,C++***
 
 - 📫 How to reach me **arth200patel@gmail.com**
 
