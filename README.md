@@ -10,7 +10,7 @@ A passionate Graphic Designer and a full stack developer from India
 
 - 💬 Ask me about **Python,C,C++***
 
-- 📫 How to reach me **arth200patel@gmail.com***
+- 📫 How to reach me ***arth200patel@gmail.com***
 
 - 📄 Know about my experiences [www.linkedin.com/in/arthpatel15](www.linkedin.com/in/arthpatel15)
 
