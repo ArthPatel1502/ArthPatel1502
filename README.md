@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Sales Analysis through Python for Data Science and MySQL](https://lnkd.in/dGbBfH_W)
 A passionate Graphic Designer and a full stack developer from India
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **React.JS***
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArthPatel1502](https://github.com/ArthPatel1502)
 
