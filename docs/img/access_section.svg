@@ -1,0 +1,101 @@
+<svg width="1200" height="780" viewBox="0 0 1200 780" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#8E2DE2"/>
+    </linearGradient>
+    <linearGradient id="portalBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f1626"/>
+      <stop offset="100%" stop-color="#171f33"/>
+    </linearGradient>
+    <radialGradient id="dotGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#36BCF7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#36BCF7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="780" fill="#0d1117"/>
+
+  <!-- ===== title band: ACCESS POINTS ===== -->
+  <g font-family="Consolas, 'Courier New', monospace">
+    <path d="M40,60 H520 M680,60 H1160" stroke="#293040" stroke-width="1.5"/>
+    <circle cx="600" cy="60" r="4" fill="#36BCF7"/>
+    <circle cx="615" cy="60" r="4" fill="#8E2DE2"/>
+    <circle cx="630" cy="60" r="4" fill="#5b6675"/>
+    <text x="600" y="112" text-anchor="middle" font-size="34" font-weight="700" letter-spacing="10" fill="#e6edf3">ACCESS POINTS</text>
+    <text x="600" y="140" text-anchor="middle" font-size="13" letter-spacing="2" fill="#7d8590">projects &#8226; skills &#8226; contact</text>
+    <path d="M40,158 H1160" stroke="#293040" stroke-width="1"/>
+  </g>
+
+  <!-- ===== primary portal card ===== -->
+  <rect x="120" y="190" width="960" height="230" rx="10" fill="url(#portalBg)" stroke="url(#edge)" stroke-width="1.5"/>
+  <g font-family="Consolas, 'Courier New', monospace" text-anchor="middle">
+    <path d="M170,232 H480 M720,232 H1030" stroke="#36BCF7" stroke-width="1.5" opacity="0.7"/>
+    <text x="600" y="238" font-size="13" letter-spacing="4" fill="#8bd8ff">PRIMARY SYSTEM PORTAL</text>
+    <text x="600" y="300" font-size="46" font-weight="700" fill="#f0f6fc">ARTH SYSTEM</text>
+    <text x="600" y="335" font-size="16" fill="#9aa5b1">Projects | Skills | Blog | Contact</text>
+    <path d="M170,360 H480 M720,360 H1030" stroke="#8E2DE2" stroke-width="1.5" opacity="0.6"/>
+  </g>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700" fill="#c9d1d9">
+    <rect x="420" y="378" width="110" height="30" rx="15" fill="none" stroke="#36BCF7"/>
+    <text x="475" y="398" text-anchor="middle">PROJECTS</text>
+    <rect x="545" y="378" width="90" height="30" rx="15" fill="none" stroke="#36BCF7"/>
+    <text x="590" y="398" text-anchor="middle">SKILLS</text>
+    <rect x="650" y="378" width="105" height="30" rx="15" fill="none" stroke="#36BCF7"/>
+    <text x="702" y="398" text-anchor="middle">CONTACT</text>
+  </g>
+
+  <!-- ===== three project lab cards ===== -->
+  <g font-family="Consolas, 'Courier New', monospace">
+
+    <!-- card 1: KalaMitra -->
+    <rect x="120" y="460" width="290" height="260" rx="8" fill="#10131c" stroke="#36BCF7" stroke-width="1.2"/>
+    <circle cx="165" cy="505" r="20" fill="none" stroke="#36BCF7" stroke-width="2"/>
+    <path d="M165,495 v20 M155,505 h20" stroke="#36BCF7" stroke-width="2"/>
+    <text x="205" y="495" font-size="10.5" letter-spacing="1.5" fill="#8E2DE2">AI ASSISTANT LAB</text>
+    <text x="145" y="518" font-size="22" font-weight="700" fill="#f0f6fc">KALAMITRA</text>
+    <text x="145" y="555" font-size="12.5" fill="#9aa5b1">
+      <tspan x="145" dy="0">Multilingual AI assistant for</tspan>
+      <tspan x="145" dy="18">artisan storytelling &amp; listings.</tspan>
+    </text>
+    <rect x="145" y="655" width="52" height="24" rx="12" fill="none" stroke="#5b6675"/>
+    <text x="171" y="671" text-anchor="middle" font-size="10" fill="#9aa5b1">AI</text>
+    <rect x="205" y="655" width="66" height="24" rx="12" fill="none" stroke="#5b6675"/>
+    <text x="238" y="671" text-anchor="middle" font-size="10" fill="#9aa5b1">NLP</text>
+
+    <!-- card 2: SenseAct -->
+    <rect x="455" y="460" width="290" height="260" rx="8" fill="#10131c" stroke="#8E2DE2" stroke-width="1.2"/>
+    <rect x="480" y="490" width="34" height="30" rx="4" fill="none" stroke="#8E2DE2" stroke-width="2"/>
+    <path d="M486,490 v-8 a11,11 0 0 1 22,0 v8" fill="none" stroke="#8E2DE2" stroke-width="2"/>
+    <text x="540" y="495" font-size="10.5" letter-spacing="1.5" fill="#36BCF7">CONSENT SYSTEM</text>
+    <text x="480" y="518" font-size="22" font-weight="700" fill="#f0f6fc">SENSEACT</text>
+    <text x="480" y="555" font-size="12.5" fill="#9aa5b1">
+      <tspan x="480" dy="0">Digital consent management for</tspan>
+      <tspan x="480" dy="18">workshops with secure uploads.</tspan>
+    </text>
+    <rect x="480" y="655" width="66" height="24" rx="12" fill="none" stroke="#5b6675"/>
+    <text x="513" y="671" text-anchor="middle" font-size="10" fill="#9aa5b1">NODE</text>
+    <rect x="554" y="655" width="72" height="24" rx="12" fill="none" stroke="#5b6675"/>
+    <text x="590" y="671" text-anchor="middle" font-size="10" fill="#9aa5b1">MYSQL</text>
+
+    <!-- card 3: Nexorae -->
+    <rect x="790" y="460" width="290" height="260" rx="8" fill="#10131c" stroke="#36BCF7" stroke-width="1.2"/>
+    <rect x="815" y="490" width="34" height="24" rx="3" fill="none" stroke="#36BCF7" stroke-width="2"/>
+    <path d="M820,522 h24" stroke="#36BCF7" stroke-width="2"/>
+    <text x="865" y="495" font-size="10.5" letter-spacing="1.5" fill="#8E2DE2">MOTION STUDIO</text>
+    <text x="815" y="518" font-size="22" font-weight="700" fill="#f0f6fc">NEXORAE</text>
+    <text x="815" y="555" font-size="12.5" fill="#9aa5b1">
+      <tspan x="815" dy="0">Animated site built with Framer</tspan>
+      <tspan x="815" dy="18">Motion &amp; Next.js.</tspan>
+    </text>
+    <rect x="815" y="655" width="80" height="24" rx="12" fill="none" stroke="#5b6675"/>
+    <text x="855" y="671" text-anchor="middle" font-size="10" fill="#9aa5b1">NEXT.JS</text>
+    <rect x="903" y="655" width="80" height="24" rx="12" fill="none" stroke="#5b6675"/>
+    <text x="943" y="671" text-anchor="middle" font-size="10" fill="#9aa5b1">FRAMER</text>
+  </g>
+
+  <path d="M40,760 H520 M680,760 H1160" stroke="#293040" stroke-width="1.5"/>
+  <circle cx="600" cy="760" r="4" fill="url(#dotGlow)">
+    <animate attributeName="r" values="3;7;3" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
