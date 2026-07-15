@@ -1,0 +1,58 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#141b2d"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#36BCF7">
+        <animate attributeName="stop-color" values="#36BCF7;#8E2DE2;#36BCF7" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#8E2DE2">
+        <animate attributeName="stop-color" values="#8E2DE2;#36BCF7;#8E2DE2" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- flowing circuit line along the base -->
+  <path d="M0,270 H260 L292,238 H640 L672,270 H1200" fill="none" stroke="url(#glow)" stroke-width="2" stroke-dasharray="10 8" opacity="0.55">
+    <animate attributeName="stroke-dashoffset" from="0" to="-180" dur="4s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- scattered node dots -->
+  <circle cx="292" cy="238" r="4" fill="#36BCF7">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="672" cy="270" r="4" fill="#8E2DE2">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- main title -->
+  <text x="600" y="140" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="66" font-weight="700" fill="url(#glow)" filter="url(#softGlow)">
+    ARTH PATEL
+  </text>
+
+  <!-- subtitle -->
+  <text x="600" y="188" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#9aa5b1" letter-spacing="3">
+    &gt; DEVOPS + AI ENGINEER
+  </text>
+
+  <!-- blinking terminal cursor -->
+  <rect x="742" y="172" width="14" height="24" fill="#36BCF7">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- tagline -->
+  <text x="600" y="230" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#5b6675">
+    automating pipelines, not just writing code
+  </text>
+</svg>
