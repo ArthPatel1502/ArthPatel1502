@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8E2DE2&height=260&section=header&text=Arth%20Patel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%2B%20AI%20Engineer&descAlignY=58&descSize=22" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Automating+pipelines%2C+not+just+writing+code;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Cloud;Shipping+AI-powered+full-stack+apps;Turning+%22it+works+on+my+machine%22+into+%22it+ships+itself%22" alt="Typing SVG" />
+<img src="docs/img/hero_banner.svg" width="100%" alt="Arth Patel — DevOps + AI Engineer"/>
 
 <br>
 
@@ -12,7 +10,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:8E2DE2&height=4&width=100%"/>
+<img src="docs/img/divider.svg" width="100%" height="6"/>
 
 ## 🧭 About Me
 
@@ -28,11 +26,19 @@ ask_me_about: [Python, DevOps tooling, React/Node, C/C++]
 fun_fact: "I enjoy automating the parts of a project everyone else finds tedious"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:36BCF7&height=4&width=100%"/>
+<img src="docs/img/divider.svg" width="100%" height="6"/>
 
 ## ⚙️ Tech Arsenal
 
 <div align="center">
+
+<img src="docs/img/terminal_stack.svg" width="640" alt="Tech stack boot sequence"/>
+
+<br><br>
+
+<sub>tech icons below for quick scanning</sub>
+
+<br><br>
 
 **DevOps & Cloud**
 <br>
@@ -58,7 +64,7 @@ fun_fact: "I enjoy automating the parts of a project everyone else finds tedious
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:8E2DE2&height=4&width=100%"/>
+<img src="docs/img/divider.svg" width="100%" height="6"/>
 
 ## 🧪 Featured Builds
 
@@ -111,7 +117,7 @@ Completed Google professional courses across data analytics, digital marketing, 
 
 > 🔐 **SENSEACT** — a digital consent-management system for workshops (Node.js/Express + MySQL, photo/Aadhaar upload, client-side PDF generation via jsPDF). Not public yet — push it up and add a card here.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:36BCF7&height=4&width=100%"/>
+<img src="docs/img/divider.svg" width="100%" height="6"/>
 
 ## 📊 Vitals
 
@@ -134,7 +140,7 @@ Completed Google professional courses across data analytics, digital marketing, 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:8E2DE2&height=4&width=100%"/>
+<img src="docs/img/divider.svg" width="100%" height="6"/>
 
 ## 🐍 Contribution Graph
 
@@ -143,7 +149,7 @@ Completed Google professional courses across data analytics, digital marketing, 
 <br><sub>⚠️ Renders once the snake workflow (included below) runs on your repo — see setup notes.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:36BCF7&height=4&width=100%"/>
+<img src="docs/img/divider.svg" width="100%" height="6"/>
 
 ## 🤝 Let's Connect
 
@@ -161,6 +167,8 @@ Completed Google professional courses across data analytics, digital marketing, 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:36BCF7&height=150&section=footer"/>
-
-<div align="center"><i>⚡ Automating today so tomorrow ships itself.</i></div>
+<div align="center">
+<img src="docs/img/divider.svg" width="100%" height="6"/>
+<br><br>
+<i>⚡ Automating today so tomorrow ships itself.</i>
+</div>
