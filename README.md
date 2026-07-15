@@ -78,7 +78,6 @@
 
 ### 🏆 Milestones
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FArthPatel1502&label=Public%20Repos&query=%24.public_repos&color=36BCF7&style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/ArthPatel1502?affiliations=OWNER&style=for-the-badge&color=8E2DE2&label=Total%20Stars"/>
 <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-blueviolet?style=for-the-badge&logo=github"/>
 
