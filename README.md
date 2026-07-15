@@ -22,56 +22,29 @@
 
 <img src="docs/img/terminal_stack.svg" width="640" alt="Tech stack boot sequence"/>
 
-<br><br>
-<sub>tech icons below for quick scanning</sub>
-<br><br>
+<sub>Tech icons below for quick scanning</sub>
 
-**DevOps & Cloud**
-<br>
+<b>DevOps & Cloud</b><br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,aws,bash&theme=dark" />
 
-<br><br>
-
-**Languages & Frameworks**
-<br>
+<b>Languages & Frameworks</b><br>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,nodejs,html,css&theme=dark" />
 
-<br><br>
-
-**Data & Databases**
-<br>
+<b>Data & Databases</b><br>
 <img src="https://skillicons.dev/icons?i=pandas,mysql,mongodb&theme=dark" />
 
-<br><br>
-
-**Design**
-<br>
+<b>Design</b><br>
 <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
 
 </div>
-
-<img src="docs/img/divider.svg" width="100%" height="6"/>
-
-<div align="center">
-<img src="docs/img/core_section.svg" width="100%" alt="Engineering core: build systems, focus areas, philosophy"/>
-</div>
-
-<img src="docs/img/divider.svg" width="100%" height="6"/>
-
-<div align="center">
-<img src="docs/img/domains_section.svg" width="100%" alt="Projects portal and focus graph"/>
-</div>
-
-<img src="docs/img/divider.svg" width="100%" height="6"/>
 
 ## 📊 Vitals
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ArthPatel1502/ArthPatel1502/output/metrics.svg" alt="GitHub metrics" width="100%"/>
-<br><sub>⚠️ Renders once the metrics workflow (included below) runs on your repo — see setup notes.</sub>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthPatel1502&theme=tokyonight&hide_border=true" height="165"/>
 
