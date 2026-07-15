@@ -1,0 +1,61 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panelBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f1626"/>
+      <stop offset="100%" stop-color="#171f33"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="520" fill="#0d1117"/>
+
+  <g font-family="Consolas, 'Courier New', monospace" text-anchor="middle">
+    <path d="M40,60 H520 M680,60 H1160" stroke="#293040" stroke-width="1.5"/>
+    <circle cx="588" cy="60" r="10" fill="none" stroke="#36BCF7" stroke-width="1.5"/>
+    <circle cx="588" cy="60" r="3" fill="#36BCF7"/>
+    <path d="M588,50 v-6 M588,70 v6 M578,60 h-6 M598,60 h6" stroke="#36BCF7" stroke-width="1.2"/>
+    <text x="600" y="112" font-size="34" font-weight="700" letter-spacing="8" fill="#e6edf3">ENGINEERING CORE</text>
+    <text x="600" y="140" font-size="13" letter-spacing="2" fill="#7d8590">capabilities &#8226; focus &#8226; mindset</text>
+    <path d="M40,158 H1160" stroke="#293040" stroke-width="1"/>
+  </g>
+
+  <g font-family="Consolas, 'Courier New', monospace">
+
+    <!-- BUILD SYSTEMS -->
+    <rect x="60" y="190" width="345" height="300" rx="8" fill="url(#panelBg)" stroke="#36BCF7" stroke-width="1.2"/>
+    <text x="90" y="235" font-size="22" font-weight="700" fill="#f0f6fc">BUILD SYSTEMS</text>
+    <text x="90" y="258" font-size="12" fill="#7d8590">Automation &#8226; CI/CD &#8226; Infra</text>
+    <line x1="90" y1="272" x2="375" y2="272" stroke="#293040"/>
+    <g font-size="13.5" fill="#c9d1d9">
+      <circle cx="97" cy="300" r="3" fill="#36BCF7"/><text x="112" y="305">Docker &amp; container workflows</text>
+      <circle cx="97" cy="332" r="3" fill="#36BCF7"/><text x="112" y="337">GitHub Actions pipelines</text>
+      <circle cx="97" cy="364" r="3" fill="#36BCF7"/><text x="112" y="369">Linux &amp; shell scripting</text>
+      <circle cx="97" cy="396" r="3" fill="#36BCF7"/><text x="112" y="401">Cloud fundamentals (AWS)</text>
+    </g>
+
+    <!-- FOCUS AREAS -->
+    <rect x="428" y="190" width="345" height="300" rx="8" fill="url(#panelBg)" stroke="#8E2DE2" stroke-width="1.2"/>
+    <text x="458" y="235" font-size="22" font-weight="700" fill="#f0f6fc">FOCUS AREAS</text>
+    <text x="458" y="258" font-size="12" fill="#7d8590">AI &#8226; Web &#8226; Data</text>
+    <line x1="458" y1="272" x2="743" y2="272" stroke="#293040"/>
+    <g font-size="13.5" fill="#c9d1d9">
+      <circle cx="465" cy="300" r="3" fill="#8E2DE2"/><text x="480" y="305">AI-powered full-stack apps</text>
+      <circle cx="465" cy="332" r="3" fill="#8E2DE2"/><text x="480" y="337">React &amp; Node.js systems</text>
+      <circle cx="465" cy="364" r="3" fill="#8E2DE2"/><text x="480" y="369">Python data workflows</text>
+      <circle cx="465" cy="396" r="3" fill="#8E2DE2"/><text x="480" y="401">Computer vision (OpenCV)</text>
+    </g>
+
+    <!-- PHILOSOPHY -->
+    <rect x="796" y="190" width="345" height="300" rx="8" fill="url(#panelBg)" stroke="#36BCF7" stroke-width="1.2"/>
+    <text x="826" y="235" font-size="22" font-weight="700" fill="#f0f6fc">PHILOSOPHY</text>
+    <text x="826" y="258" font-size="12" fill="#7d8590">Principles &amp; mindset</text>
+    <line x1="826" y1="272" x2="1111" y2="272" stroke="#293040"/>
+    <g font-size="13.5" fill="#c9d1d9">
+      <circle cx="833" cy="300" r="3" fill="#36BCF7"/><text x="848" y="305">Automate the boring parts</text>
+      <circle cx="833" cy="332" r="3" fill="#36BCF7"/><text x="848" y="337">Ship small, ship often</text>
+      <circle cx="833" cy="364" r="3" fill="#36BCF7"/><text x="848" y="369">Learn in public</text>
+      <circle cx="833" cy="396" r="3" fill="#36BCF7"/><text x="848" y="401">If it's manual twice, script it</text>
+    </g>
+  </g>
+
+  <path d="M40,500 H1160" stroke="#293040" stroke-width="1"/>
+</svg>
