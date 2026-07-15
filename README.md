@@ -22,7 +22,6 @@
 
 <img src="docs/img/terminal_stack.svg" width="640" alt="Tech stack boot sequence"/>
 
-<sub>Tech icons below for quick scanning</sub>
 
 <b>DevOps & Cloud</b><br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,aws,bash&theme=dark" />
@@ -65,7 +64,7 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/ArthPatel1502/ArthPatel1502/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-<br><sub>⚠️ Renders once the snake workflow (included below) runs on your repo — see setup notes.</sub>
+<br>
 </div>
 
 <img src="docs/img/divider.svg" width="100%" height="6"/>
