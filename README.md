@@ -1,115 +1,135 @@
-<h1 align="center">Hi 👋, I'm Arth Patel</h1>
-<h3 align="center">DevOps with AI Engineer — building, automating, and shipping intelligent systems</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/ArthPatel1502">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=DevOps+%2B+AI+Engineer;CI%2FCD+%7C+Containers+%7C+Cloud+Automation;Building+AI-powered+full-stack+apps;Turning+manual+pipelines+into+automated+ones" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8E2DE2&height=260&section=header&text=Arth%20Patel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%2B%20AI%20Engineer&descAlignY=58&descSize=22" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArthPatel1502&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ArthPatel1502?label=Followers&style=flat-square&color=36BCF7" alt="Followers" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Automating+pipelines%2C+not+just+writing+code;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Cloud;Shipping+AI-powered+full-stack+apps;Turning+%22it+works+on+my+machine%22+into+%22it+ships+itself%22" alt="Typing SVG" />
 
----
+<br>
 
-### 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=ArthPatel1502&label=PROFILE%20VIEWS&color=8E2DE2&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/ArthPatel1502?label=FOLLOWERS&style=for-the-badge&color=36BCF7&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/badge/STATUS-Automating%20Everything-success?style=for-the-badge" alt="Status"/>
 
-- 🎓 Engineering student, currently exploring **DevOps practices and AI-driven engineering workflows**
-- 🔧 Learning to combine **CI/CD, containers, and cloud automation** with practical AI/ML integration
-- 🧠 Building full-stack and AI-powered projects — from consent-management systems to multilingual AI assistants
-- 🐍 Comfortable across the stack: **Python, Node.js, React, MySQL/MongoDB**, and now diving into **Docker & Kubernetes**
-- 📊 Also enjoy data work — pandas/numpy scripts, dataset analysis, and automation scripting
-- 💬 Ask me about: **Python, DevOps tooling, React/Node, C/C++**
-- ⚡ Fun fact: I like automating the parts of a project everyone else finds tedious
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:8E2DE2&height=4&width=100%"/>
 
-### 🛠️ Tech Stack
+## 🧭 About Me
+
+```yaml
+name: Arth Patel
+role: DevOps + AI Engineer (in progress)
+based_in: Gujarat, India
+currently:
+  - Learning CI/CD pipelines, containerization, and cloud-native workflows
+  - Fusing DevOps automation with AI-driven engineering
+  - Building full-stack + AI projects end to end
+ask_me_about: [Python, DevOps tooling, React/Node, C/C++]
+fun_fact: "I enjoy automating the parts of a project everyone else finds tedious"
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:36BCF7&height=4&width=100%"/>
+
+## ⚙️ Tech Arsenal
+
+<div align="center">
 
 **DevOps & Cloud**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,aws,bash&theme=dark" />
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-</p>
+<br><br>
 
 **Languages & Frameworks**
+<br>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,nodejs,html,css&theme=dark" />
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-</p>
+<br><br>
 
 **Data & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=pandas,mysql,mongodb&theme=dark" />
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-</p>
+<br><br>
 
-**Design Tools**
+**Design**
+<br>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator"/>
-</p>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:8E2DE2&height=4&width=100%"/>
 
-### 🧪 Featured Projects
+## 🧪 Featured Builds
 
-| Project | Description |
-|---|---|
-| **[KalaMitra](https://github.com/ArthPatel1502/KalaMitra)** | AI-powered multilingual assistant helping artisans tell their stories, create Instagram-ready posts, and generate marketplace listings |
-| **SENSEACT** | Digital consent-management system for workshops — Node.js/Express + MySQL backend with photo/ID upload and client-side PDF generation |
-| **[Nexorae Website](https://github.com/ArthPatel1502/Nexorae-Website)** | Website built with Framer, Framer Motion, and Next.js — custom code overrides and components for a polished, animated UI |
-| **[OpenCV Projects](https://github.com/ArthPatel1502/OpenCV-Projects)** | Computer vision experiments and mini-projects using OpenCV |
-| **[Google Skill Badges](https://github.com/ArthPatel1502/Google-Skill-Badges)** | Completed Google professional courses across data analytics, digital marketing, IT support, and project management |
+<div align="center">
 
----
+<a href="https://github.com/ArthPatel1502/KalaMitra">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArthPatel1502&repo=KalaMitra&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/ArthPatel1502/Nexorae-Website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArthPatel1502&repo=Nexorae-Website&theme=tokyonight&hide_border=true" />
+</a>
 
-### 📊 GitHub Stats
+<a href="https://github.com/ArthPatel1502/OpenCV-Projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArthPatel1502&repo=OpenCV-Projects&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/ArthPatel1502/Google-Skill-Badges">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArthPatel1502&repo=Google-Skill-Badges&theme=tokyonight&hide_border=true" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthPatel1502&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthPatel1502&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthPatel1502&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
+> 🔐 **SENSEACT** — a digital consent-management system for workshops (Node.js/Express + MySQL, photo/Aadhaar upload, client-side PDF generation via jsPDF). Not public yet — push it up and swap in a pin card here.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:36BCF7&height=4&width=100%"/>
 
-### 🤝 Connect with Me
+## 📊 Vitals
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arthpatel15/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/arth_.patel15/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="35" height="35" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="mailto:arth200patel@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" width="35" height="35" alt="Email"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>⚡ Automating today so tomorrow ships itself.</i></p>
+<img src="https://github-readme-stats.vercel.app/api?username=ArthPatel1502&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthPatel1502&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthPatel1502&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArthPatel1502&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:8E2DE2&height=4&width=100%"/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ArthPatel1502/ArthPatel1502/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<br><sub>⚠️ Renders once the snake workflow (included below) runs on your repo — see setup notes.</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:36BCF7&height=4&width=100%"/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/arthpatel15/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/arth_.patel15/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:arth200patel@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:36BCF7&height=150&section=footer"/>
+
+<div align="center"><i>⚡ Automating today so tomorrow ships itself.</i></div>
