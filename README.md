@@ -68,9 +68,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArthPatel1502&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://raw.githubusercontent.com/ArthPatel1502/ArthPatel1502/output/metrics.svg" alt="GitHub metrics" width="100%"/>
+<br><sub>⚠️ Renders once the metrics workflow (included below) runs on your repo — see setup notes.</sub>
+
+<br><br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthPatel1502&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthPatel1502&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
