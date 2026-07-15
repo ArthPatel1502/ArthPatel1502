@@ -62,25 +62,54 @@ fun_fact: "I enjoy automating the parts of a project everyone else finds tedious
 
 ## 🧪 Featured Builds
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ArthPatel1502/KalaMitra">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArthPatel1502&repo=KalaMitra&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ArthPatel1502/Nexorae-Website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArthPatel1502&repo=Nexorae-Website&theme=tokyonight&hide_border=true" />
-</a>
+**[🎨 KalaMitra](https://github.com/ArthPatel1502/KalaMitra)**
+<br>
+AI-powered multilingual assistant helping artisans tell their stories, create Instagram-ready posts, and generate marketplace listings.
+<br>
+<img src="https://img.shields.io/github/languages/top/ArthPatel1502/KalaMitra?style=flat-square&color=36BCF7"/>
+<img src="https://img.shields.io/github/last-commit/ArthPatel1502/KalaMitra?style=flat-square&color=8E2DE2"/>
 
-<a href="https://github.com/ArthPatel1502/OpenCV-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArthPatel1502&repo=OpenCV-Projects&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ArthPatel1502/Google-Skill-Badges">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArthPatel1502&repo=Google-Skill-Badges&theme=tokyonight&hide_border=true" />
-</a>
+</td>
+<td width="50%" valign="top">
 
-</div>
+**[🌐 Nexorae Website](https://github.com/ArthPatel1502/Nexorae-Website)**
+<br>
+Built with Framer, Framer Motion, and Next.js — custom code overrides and components for a polished, animated UI.
+<br>
+<img src="https://img.shields.io/github/languages/top/ArthPatel1502/Nexorae-Website?style=flat-square&color=36BCF7"/>
+<img src="https://img.shields.io/github/last-commit/ArthPatel1502/Nexorae-Website?style=flat-square&color=8E2DE2"/>
 
-> 🔐 **SENSEACT** — a digital consent-management system for workshops (Node.js/Express + MySQL, photo/Aadhaar upload, client-side PDF generation via jsPDF). Not public yet — push it up and swap in a pin card here.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[👁️ OpenCV Projects](https://github.com/ArthPatel1502/OpenCV-Projects)**
+<br>
+Computer vision experiments and mini-projects built with OpenCV.
+<br>
+<img src="https://img.shields.io/github/languages/top/ArthPatel1502/OpenCV-Projects?style=flat-square&color=36BCF7"/>
+<img src="https://img.shields.io/github/last-commit/ArthPatel1502/OpenCV-Projects?style=flat-square&color=8E2DE2"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[🏅 Google Skill Badges](https://github.com/ArthPatel1502/Google-Skill-Badges)**
+<br>
+Completed Google professional courses across data analytics, digital marketing, IT support, and project management.
+<br>
+<img src="https://img.shields.io/github/languages/top/ArthPatel1502/Google-Skill-Badges?style=flat-square&color=36BCF7"/>
+<img src="https://img.shields.io/github/last-commit/ArthPatel1502/Google-Skill-Badges?style=flat-square&color=8E2DE2"/>
+
+</td>
+</tr>
+</table>
+
+> 🔐 **SENSEACT** — a digital consent-management system for workshops (Node.js/Express + MySQL, photo/Aadhaar upload, client-side PDF generation via jsPDF). Not public yet — push it up and add a card here.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:36BCF7&height=4&width=100%"/>
 
@@ -97,9 +126,11 @@ fun_fact: "I enjoy automating the parts of a project everyone else finds tedious
 
 <div align="center">
 
-### 🏆 Trophy Case
+### 🏆 Milestones
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArthPatel1502&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FArthPatel1502&label=Public%20Repos&query=%24.public_repos&color=36BCF7&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/ArthPatel1502?affiliations=OWNER&style=for-the-badge&color=8E2DE2&label=Total%20Stars"/>
+<img src="https://img.shields.io/badge/Achievement-Pull%20Shark-blueviolet?style=for-the-badge&logo=github"/>
 
 </div>
 
